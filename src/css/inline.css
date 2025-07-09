@@ -1,5 +1,5 @@
 /* Set inline image sizizing to fit line height. */
-.inline > span.image > img {
+.inline span.image > img {
   height: 1em;
 }
 /* Force inline span in pagination to be inline. */
