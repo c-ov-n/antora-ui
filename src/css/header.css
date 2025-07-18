@@ -46,6 +46,11 @@ body {
   word-wrap: normal;
 }
 
+.navbar-brand .navbar-item img.logo {
+  height: 2em;
+  padding-right: 1em;
+}
+
 .navbar-brand .navbar-item:first-child :not(:last-child) {
   padding-right: 0.375rem;
 }
